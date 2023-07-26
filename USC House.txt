@@ -1,7 +1,7 @@
 {
     "name": "GonzoTacoTruck",
     "startingYear": 2023,
-    "startingMessage": "The number of bowls is optimized for a 12 team playoff. This version needs to have FCCD ver 0.14.0 at a minimum. Have fun!",
+    "startingMessage": "My Perfect World",
     "bowlGames": [
         {
 		"name": "Rose Bowl",
@@ -1180,8 +1180,7 @@
                             "fanbaseType": "ride-or-die",
                             "rivalAbbreviation": "UCLA",
                             "rivalAbbreviation": "ND",
-                            "rivalAbbreviation": "Stanford"
-                            
+                            "rivalAbbreviation": "OSU"
                         }
                     ]
                 }
@@ -3466,9 +3465,3 @@
                             "fanbaseType": "volatile",
                             "rivalAbbreviation": "NMSU"
                         }
-                    ]
-                }
-            ]
-        }
-    ]
-}
