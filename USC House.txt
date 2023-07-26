@@ -766,7 +766,7 @@
                                 "facilities": 8,
                                 "stadium": 10,
                                 "collegeLife": 6,
-                                "academics": 5,
+                                "academics": 9,
                                 "marketing": 6,
                                 "attendance": 32000,
                                 "fanbaseLevel": 7
